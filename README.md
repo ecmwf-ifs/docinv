@@ -45,7 +45,7 @@ IFS/Arpege documentation inventory. See [contribution guidelines](CONTRIBUTING.m
 | **Format**      | PDF
 | **Type (1-5)**  | 3
 | **Owner**       | Météo-France & CNRS
-| **Comments**: AROME physics is based on Meso-NH. AROME and ARPEGE surface schemes are based on SURFEX. A few options of Meso-NH and SURFEX are activated in AROME and ARPEGE.
+| **Comments**:   | AROME physics is based on Meso-NH. AROME and ARPEGE surface schemes are based on SURFEX. A few options of Meso-NH and SURFEX are activated in AROME and ARPEGE.
 
 ### Another set of documentation
 
