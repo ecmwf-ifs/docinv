@@ -1,6 +1,6 @@
-# Documentation inventory
+# IFS/Arpege Documentation Inventory
 
-IFS/Arpege documentation inventory.
+A central inventory of documentation for the ECMWF/Meteo-France IFS/Arpege forecast systems.
 
 ### Categories of documentation
 
