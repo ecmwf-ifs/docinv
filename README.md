@@ -1,7 +1,5 @@
 # Documentation inventory
 
-## Overview
-
 IFS/Arpege documentation inventory.
 
 ### Categories of documentation
@@ -14,17 +12,17 @@ Five levels of documentation have been defined, which should be referred (as a b
 4. Practical guides: namelists, how-to’s
 5. Documentation about ancillary tools (like SAPP, LOKI, etc.)
 
-### Contributing
+### Contributing
 
 See [contribution guidelines](CONTRIBUTING.md).
 
-## Contents
+### Contents
 
 - [IFS scientific documentation](https://github.com/ecmwf-ifs/docinv/blob/main/README.md#ifs-scientific-documentation)
 - [GMAPdoc](https://github.com/ecmwf-ifs/docinv/blob/main/README.md#gmapdoc)
 - [Meso-NH & SURFEX documentation](https://github.com/ecmwf-ifs/docinv/blob/main/README.md#meso-nh-and-surfex-documentation)
 
-## Inventory
+# Inventory
 
 ### IFS scientific documentation
 
