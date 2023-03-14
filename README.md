@@ -21,6 +21,7 @@ See [contribution guidelines](CONTRIBUTING.md).
 - [IFS scientific documentation](https://github.com/ecmwf-ifs/docinv/blob/main/README.md#ifs-scientific-documentation)
 - [GMAPdoc](https://github.com/ecmwf-ifs/docinv/blob/main/README.md#gmapdoc)
 - [Meso-NH & SURFEX documentation](https://github.com/ecmwf-ifs/docinv/blob/main/README.md#meso-nh-and-surfex-documentation)
+- [OpenIFS documentation](https://github.com/ecmwf-ifs/docinv/blob/main/README.md#openifs-documentation)
 
 # Inventory
 
@@ -60,5 +61,18 @@ See [contribution guidelines](CONTRIBUTING.md).
 | **Format**      | PDF
 | **Type (1-5)**  | 3
 | **Owner**       | Météo-France & CNRS
+| **Visibility**  | Public
+| **Comments**
+
+### OpenIFS documentation
+
+[![Badge](https://img.shields.io/badge/External_link-blue?style=flat)](https://confluence.ecmwf.int/display/OIFS/OpenIFS+Home)
+
+| Item | Value |
+|--:|:--|
+| **Description** | Documentation of the OpenIFS
+| **Format**      | Web page
+| **Type (1-5)**  | 3, 4
+| **Owner**       | ECMWF
 | **Visibility**  | Public
 | **Comments**
